@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploy-github/static/css/main.6701065c.css",
+    "main.js": "/deploy-github/static/js/main.738d2c5a.js",
+    "static/js/787.ecfe09a1.chunk.js": "/deploy-github/static/js/787.ecfe09a1.chunk.js",
+    "index.html": "/deploy-github/index.html",
+    "static/media/red-heart-icon.svg": "/deploy-github/static/media/red-heart-icon.9fd53121708ce12d373dc0010349c44d.svg",
+    "main.6701065c.css.map": "/deploy-github/static/css/main.6701065c.css.map",
+    "main.738d2c5a.js.map": "/deploy-github/static/js/main.738d2c5a.js.map",
+    "787.ecfe09a1.chunk.js.map": "/deploy-github/static/js/787.ecfe09a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6701065c.css",
+    "static/js/main.738d2c5a.js"
+  ]
+}
